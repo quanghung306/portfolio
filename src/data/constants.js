@@ -285,7 +285,7 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://res.cloudinary.com/di5ejqrqo/image/upload/v1718453856/channels4_profile_omswow.jpg",
+      img: "https://res.cloudinary.com/quanghung/image/upload/v1718453856/channels4_profile_omswow.jpg",
       school: "Duy Tan University",
       date: "Oct 2020 - Sep 2024",
       grade: "Good",
@@ -294,7 +294,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://res.cloudinary.com/di5ejqrqo/image/upload/v1718454384/vti-academy_y2kabn.jpg",
+      img: "https://res.cloudinary.com/quanghung/image/upload/v1718454384/vti-academy_y2kabn.jpg",
       school: "VTI Academy",
       date: "February 2024 - June 2024",
       grade: "Good",
